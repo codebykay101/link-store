@@ -61,7 +61,7 @@ body {
 }
 
 .social-media ul li a {
-    color: #000;
+    color: #fff;
     font-size: 16px;
     display: flex;
     justify-content: center;
@@ -1798,7 +1798,7 @@ main {
     border-radius: 50%;
     width: 40px;
     height: 40px;
-    color: #000;
+    color: #fff;
     text-align: center;
     text-decoration: none;
     transition: background-color 0.3s ease;
@@ -1995,7 +1995,7 @@ main {
     }
     
     .social-media ul li a {
-        color: #000;
+        color: #fff;
         font-size: 15px;
     }
 
